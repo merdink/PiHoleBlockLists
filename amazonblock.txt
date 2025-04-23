@@ -1,6 +1,6 @@
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 aan.amazon.com
-0.0.0.0 kinesis.us-east-1.amazonaws.com/
+0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 completion.amazon.com
