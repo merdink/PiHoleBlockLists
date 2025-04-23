@@ -1,13 +1,13 @@
-fls-na.amazon.com
-aan.amazon.com
-kinesis.us-east-1.amazonaws.com/
-device-metrics-us.amazon.com
-mads.amazon-adsystem.com
-completion.amazon.com
-unagi.amazon.com
-na.unagi.amazon.com
-eu.unagi.amazon.com
-disneyplus.bn.files.aiv-cdn.net
-image-us.207.net
-prod-rel-ffx-us.amazon.com
-www.amazon.com/adprefs
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 aan.amazon.com
+0.0.0.0 kinesis.us-east-1.amazonaws.com/
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 completion.amazon.com
+0.0.0.0 unagi.amazon.com
+0.0.0.0 na.unagi.amazon.com
+0.0.0.0 eu.unagi.amazon.com
+0.0.0.0 disneyplus.bn.files.aiv-cdn.net
+0.0.0.0 image-us.207.net
+0.0.0.0 prod-rel-ffx-us.amazon.com
+0.0.0.0 www.amazon.com/adprefs
